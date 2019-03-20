@@ -1,0 +1,7 @@
+#!/usr/bin/with-contenv /bin/bash
+
+# permissions
+chown -R abc:abc \
+	/config \
+	/opt
+
